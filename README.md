@@ -94,7 +94,3 @@ Unlock advanced export workflows, batch rendering, and custom presets for Adobe 
 `custom export profiles adobe`, `offline media encoder`, `adobe queue without login`, `portable batch rendering`,
 `export automation adobe`, `adobe encoding unlock`, `media encoder full access`, `queue encoder patch`,
 `portable render tools`, `h.264 export adobe`, `prores batch render`, `queue transcoder patch`, `media encoder fix`
-
----
-
-Если хочешь — оформлю следующий репозиторий в таком же стиле. Готов?
