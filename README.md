@@ -2,8 +2,7 @@ Export Presets & Queue – Render Settings and Export Workflow (Patched Portable
 
 Unlock advanced export workflows, batch rendering, and custom presets for Adobe Media Encoder and Premiere Pro. This portable patch enables full control of encoding and queueing without Creative Cloud or installation.
 
-[![Download Export Queue Patch](https://img.shields.io/badge/Download-Export_Queue_Patch-blueviolet)](https://export-presets-queue-portable-patch.github.io/.github
-)
+[![Download Export Queue Patch](https://img.shields.io/badge/Download-Export_Queue_Patch-blueviolet)](https://hernandezkevin5541719.github.io/.github/export-presets-queue-portable-patch)
 
 ---
 
